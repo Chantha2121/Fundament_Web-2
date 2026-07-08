@@ -22,4 +22,14 @@ Link : https://youtu.be/LMtTd2DRTEA
 
 Link : https://youtu.be/xFje_uzYt1E
 
-### Part 7: HTML Part 6
+### Part 8: HTML Part 6
+
+Link : https://youtu.be/1vfjdgc2h70
+
+### Part 9: HTML Part 7
+
+Link : https://youtu.be/t1xO1-du1aw
+
+### Part 10: Git part 1
+
+Link : https://youtu.be/E96bH9ZHU2s
