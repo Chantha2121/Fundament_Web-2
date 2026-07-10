@@ -33,3 +33,7 @@ Link : https://youtu.be/t1xO1-du1aw
 ### Part 10: Git part 1
 
 Link : https://youtu.be/E96bH9ZHU2s
+
+### Part 11: Git part 2
+
+Link : https://youtu.be/VMmtuR-NVjo
