@@ -37,3 +37,13 @@ Link : https://youtu.be/E96bH9ZHU2s
 ### Part 11: Git part 2
 
 Link : https://youtu.be/VMmtuR-NVjo
+
+### Part 12: Git part 3
+
+Link : https://youtu.be/T5HJpA4CfZ0
+
+### Part 13: Git Part 4
+
+Link : https://youtu.be/n2YKP30Hlz4
+
+### Part 14: HTML part 8
