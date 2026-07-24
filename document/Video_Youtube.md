@@ -62,3 +62,7 @@ Link : https://youtu.be/ICzAT6iaNJ4
 ### Part 18: HTML Part 11
 
 Link : https://youtu.be/YzhmlTvwuAI
+
+### Part 19: CSS Part1
+
+Link : https://youtu.be/D1IF__-yFGc
