@@ -66,3 +66,7 @@ Link : https://youtu.be/YzhmlTvwuAI
 ### Part 19: CSS Part1
 
 Link : https://youtu.be/D1IF__-yFGc
+
+### Part 20: CSS Part2
+
+Link : https://youtu.be/sLGinfPzBPk
