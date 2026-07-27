@@ -70,3 +70,7 @@ Link : https://youtu.be/D1IF__-yFGc
 ### Part 20: CSS Part2
 
 Link : https://youtu.be/sLGinfPzBPk
+
+### Part 21: CSS Part3
+
+Link : https://youtu.be/a0QstNLw4zE

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    :root {
+      --blue: #c6d0e3;
+      --white: #faf0ed;
+      --font-title: 20px;
+      --center: "center";
+    }
+
+    .box {
+      width: 200px;
+      height: 200px;
+      background-color: red;
+      border: 2px solid blue;
+    }
+
+    /* Phone device */
+    @media (min-width: 320px) and (max-width: 480px) {
+      .box {
+        background-color: var(--blue);
+      }
+    }
+
+    /* Ipad Device */
+    @media (min-width: 481px) and (max-width: 768px) {
+      .box {
+        background-color: var(--blue);
+      }
+    }
+
+    /* Small Screen and Laptop */
+    @media (min-width: 769px) and (max-width: 1024px) {
+      .box {
+        background-color: rgb(185, 16, 208);
+      }
+    }
+
+    /* Desktop Large Screen */
+    @media (min-width:1025px) and (max-width: 1200px) {
+      .box {
+        background-color: rgb(29, 239, 204);
+      }
+    }
+
+    /* TV screen */
+    @media (min-width: 1201px) {
+      .box {
+        background-color: rgb(196, 196, 196);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="box">
+  </div>
+
+</body>
+
+</html>
