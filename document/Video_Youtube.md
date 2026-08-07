@@ -74,3 +74,11 @@ Link : https://youtu.be/sLGinfPzBPk
 ### Part 21: CSS Part3
 
 Link : https://youtu.be/a0QstNLw4zE
+
+### Part 22: CSS Part4
+
+Link : https://youtu.be/_v8os0wEEUM
+
+### Part 23: Javascript Part1
+
+Link : https://youtu.be/nh7L2z_NtaY

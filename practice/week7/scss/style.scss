@@ -1,0 +1,35 @@
+// @use 'variable' as *;
+@import 'variable';
+
+@mixin fontstyle {
+  font-family: $myFont;
+  font-size: $myFontSize;
+  color: $color;
+}
+
+h1 {
+  @include fontstyle;
+}
+
+div {
+  div {
+    @include fontstyle;
+
+    .test {
+      color: red;
+    }
+  }
+
+  p {
+    // color: $color;
+
+
+    .code {
+      color: red !important;
+    }
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
