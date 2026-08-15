@@ -24,4 +24,12 @@ const obj = {
     return a + b;
   }
 }
-console.log(obj.myFunction(2, 3));
+
+function showTest(a, b) {
+  console.log("sum of a + b = ", a+b)
+  console.log("Hello world");
+}
+
+showTest(12,3)
+
+// console.log(obj.myFunction(2, 3));

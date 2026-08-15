@@ -86,3 +86,11 @@ Link : https://youtu.be/nh7L2z_NtaY
 ### Part 24: Javascript Part 2
 
 Link : https://youtu.be/_RSQRBNJOGQ
+
+### Part 25: Javascript Part3
+
+Link : https://youtu.be/PxDctJux8Vk
+
+### Part 26: Javascript Part4
+
+Link : https://youtu.be/u7Ui4byTWsM
