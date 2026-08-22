@@ -5,19 +5,23 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
-  <script src="test.js"></script>
   <script src="https://code.jquery.com/jquery-4.0.0.js" integrity="sha256-9fsHeVnKBvqh3FB2HYu7g2xseAZ5MlN6Kz/qnkASV8U="
     crossorigin="anonymous"></script>
 </head>
 
 <body>
-  <h1 id="head">Hello World</h1>
+  <input id="head" value="hello">Hello World</input>
+  <div id="content"></div>
   <button id="btn">Click Me</button>
 </body>
 <script>
   $(document).ready(function () {
     $('#btn').click(function () {
-      $('#head').html = "Test"
+      // $('#content').val("<p>Hello</p>")
+      // $('#head').css("color", "red")
+      let head = $('#head').hide();
+      console.log(head)
+      alert("Test")
     })
   })
 </script>

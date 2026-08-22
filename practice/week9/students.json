@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Chantha",
+      "age": 14,
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/054/876/032/small/mirror-image-snow-capped-mountain-peaks-reflected-in-pristine-lake-free-photo.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chamroeurn",
+      "age": 16,
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/054/876/032/small/mirror-image-snow-capped-mountain-peaks-reflected-in-pristine-lake-free-photo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ly Hav",
+      "age": 24,
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/054/876/032/small/mirror-image-snow-capped-mountain-peaks-reflected-in-pristine-lake-free-photo.jpg"
+    }
+  ]
+}
